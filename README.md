@@ -8,7 +8,7 @@ Step 1) Install [autohotkey](https://www.autohotkey.com/) on to your windows mac
 
 Step 2) edit `line 59` in the script for your location of `BigBox.exe`.
 
-Step 3) put the 'launchbox_autohotkeyscript.ahk' script into `"C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\"`
+Step 3) put the `launchbox_autohotkeyscript.ahk` script into `"C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\"`
 
 Step 4) thats it, it should all be working! try opening big box via your home button
 
